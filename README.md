@@ -16,7 +16,7 @@ Filtering data using multiple paramters like the date, state, and then the shape
 
 ## Summary
 ### Drawback
-![](Resources/Drawback.PNG)
+![](Resources/drawback.PNG)
 Users are required to enter parameters exactly as they appear in the table data. As shown in image above. Entering data that does not exist within the dataset resulted in an empty return.
 
 ### Improvements
