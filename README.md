@@ -17,3 +17,9 @@ Filtering data using multiple paramters like the date, state, and then the shape
 ## Summary
 ### Drawback
 ![](Resources/Drawback.PNG)
+Users are required to enter parameters exactly as they appear in the table data. As shown in image above. Entering data that does not exist within the dataset resulted in an empty return.
+
+### Improvements
+  - To address this issue, some code could be written to collect various expected entry formats, translate them into the appropriate table value format in the backend, and provide users with results regardless of whether their parameters were entered correctly.
+  - Adding sort feature data columns might also help users. 
+  - Expanding date filter to months will help users. User might not know exact date.
